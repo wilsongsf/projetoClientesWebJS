@@ -1,0 +1,25 @@
+{
+  "name": "projetoclienteswebjs",
+  "version": "1.0.0",
+  "description": "Projeto simples para a materia de JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilsongsf/projetoClientesWebJS.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "clientes",
+    "web"
+  ],
+  "author": "Wilson Gomes da Silva Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilsongsf/projetoClientesWebJS/issues"
+  },
+  "homepage": "https://github.com/wilsongsf/projetoClientesWebJS#readme"
+}
