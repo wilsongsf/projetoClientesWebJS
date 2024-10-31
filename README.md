@@ -17,3 +17,10 @@ arguments - alrgumentos de uma funcao, pode ser usado para ver a quantidade de a
 spread -  espalhador, usado para receber quantidades valores indefinidas em ts
 array
 arrow function
+
+# aula 4
+faltei...
+
+# aula 5
+array
+objetos
