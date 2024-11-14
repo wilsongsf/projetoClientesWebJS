@@ -22,5 +22,6 @@ arrow function
 faltei...
 
 # aula 5
-array
-objetos
+array com promptsync
+objetos - objetos sao calsses instanciadas classe carro, objeto gol
+

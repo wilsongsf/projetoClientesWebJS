@@ -23,7 +23,11 @@
   },
   "homepage": "https://github.com/wilsongsf/projetoClientesWebJS#readme",
   "dependencies": {
+    "npx": "^10.2.2",
     "prompt-sync": "^4.2.0",
     "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0"
   }
 }

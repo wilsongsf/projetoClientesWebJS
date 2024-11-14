@@ -1,5 +1,5 @@
 "use strict";
 
-var a: number = 2;
+var a1: number = 2;
 
-console.log(`Numero: ${a}`);
+console.log(`Numero: ${a1}`);
